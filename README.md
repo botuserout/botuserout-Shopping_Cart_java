@@ -1,17 +1,13 @@
-Absolutely! Here’s the ✨**rewritten README**✨ for your updated Java project that now uses **arrays for cleaner currency handling**. I’ve made it **engaging, beginner-friendly, emoji-rich**, and **highlighted the DSA elements** clearly.
-
----
-
 # 🛍️💱 Java Shopping Cart + Currency Converter  
 ### A Beginner-Friendly Java Project Using Arrays 📚
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Welcome to the **Java Shopping Cart Currency Converter** – a fun and educational project that simulates a global shopping experience! 🌐💸 With just a few inputs, you can find out how much your international shopping spree will cost you in INR 🇮🇳.
 
 This updated version uses **arrays** to handle currency data more efficiently — taking your Java learning to the next level! 🚀
 
----
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ## ✅ What This Project Does
 
